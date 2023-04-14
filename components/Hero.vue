@@ -8,7 +8,6 @@
       <div
         class="relative  overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full"
       >
-       <NuxtImg src="/car-hire-spain.jpg" /> 
       </div>
 
       <div class="lg:py-24">
