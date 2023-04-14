@@ -298,3 +298,6 @@ Conditions of coverage vary but they normally include:
 
 If you are in a country you don't know, traveling alone and not good at changing tires, this could be a great option.
 This is something you can get at the counter when getting the car.
+
+*** 
+
