@@ -14,6 +14,7 @@
     "@nuxt/image-edge": "^1.0.0-28020728.5df24eb",
     "@nuxtjs/tailwindcss": "^6.6.5",
     "@tailwindcss/typography": "^0.5.9",
+    "@types/node": "^18.15.11",
     "nuxt": "^3.4.0"
   }
 }

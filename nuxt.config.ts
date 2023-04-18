@@ -7,7 +7,5 @@ export default defineNuxtConfig({
   ]
   
 })
-function defineNuxtConfig(arg0: { modules: string[]; }) {
-  throw new Error("Function not implemented.");
-}
+
 
