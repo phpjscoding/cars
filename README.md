@@ -1,6 +1,18 @@
-# Nuxt 3 Minimal Starter
+# Blog / Merch Site w/ Nuxt 3 + Content v2
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
+
+## Demo
+
+https://contentv2-nuxt3.behonbaker.com/
+
+![Home Page Image](/public/screenshot.png)
+
+## Me?
+
+<img src="https://behonbaker.com/icon.png" height="100" />
+
+## [Behon Baker](https://behonbaker.com)
 
 ## Setup
 
@@ -14,12 +26,12 @@ yarn install
 npm install
 
 # pnpm
-pnpm install
+pnpm install --shamefully-hoist
 ```
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`
+Start the development server on http://localhost:3000
 
 ```bash
 npm run dev
@@ -39,4 +51,4 @@ Locally preview production build:
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
