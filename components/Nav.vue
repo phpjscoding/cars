@@ -1,7 +1,7 @@
 <template>
 	<header class="flex items-center justify-between h-20 px-[5%] lg:px-[15%]">
 		<NuxtLink to="/" class="font-bold text-2xl lg:text-4xl">
-			<span class="text-primary">Spain</span>Cars
+			<span class="text-[#bc0014]" >Spain</span><span class="text-[#ffbb01]">Cars </span> 
 		</NuxtLink>
 		<nav class="flex items-center space-x-7 text-gray-600">
 			<template v-for="(n, i) in links" :key="`navLink-${i}`">

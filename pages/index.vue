@@ -2,22 +2,24 @@
 	<div class="min-h-screen">
 		<Nav />
 		<main>
-			<section class="lg:px-[15%] px-[5%] pt-20 h-screen relative flex items-center justify-center" style="background-image: url('https://img.freepik.com/free-photo/travel-elements-composition-with-copyspace_23-2147981833.jpg?w=996&t=st=1681842285~exp=1681842885~hmac=c444c4af03b5ed54ee6fe688d4b0eb44c6c1c74d342004707dfefa6bc4446cfc');background-repeat: no-repeat; background-size: cover; background-position: bottom;">
+			<section class="lg:px-[15%] px-[5%] pt-20 h-screen relative flex  justify-center" style="background-image: url('/spain-cars-rental.jpg');background-repeat: no-repeat; background-size: cover; background-position: top;">
 				<span class="overlay w-full h-full flex  justify-center items-top backdrop-brightness-50 absolute inset-0"></span>
 				
 		
 
 			<div class="z-20">
-  <div class="">
-	<h1
-					class="lg:text-6xl text-4xl text-center leading-normal font-bold text-white"
+  <div class="flex flex-col justify-center"> 
+	<h1 
+					class="lg:text-6xl text-4xl text-center leading-normal font-bold text-white mb-8"
 				>
-					All about Cars Rental In Spain 
+					<span class="text-[#bc0014]">All about</span> <br> <span class="text-[#ffbb01]"> Car Rental</span>  <br> <span class="text-[#bc0014]">In Spain </span> 
 				</h1>
 
 				<a href="https://www.discovercars.com/?a_aid=spainCars"
+				target="_blank"
+				rel="noopener"
   type="button"
-  class="inline-block rounded bg-neutral-50 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 shadow-[0_4px_9px_-4px_#cbcbcb] transition duration-150 ease-in-out hover:bg-neutral-100 hover:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:bg-neutral-100 focus:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] dark:shadow-[0_4px_9px_-4px_rgba(251,251,251,0.3)] dark:hover:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:focus:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:active:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)]">
+  class=" text-center inline-block rounded bg-neutral-50 px-6 pb-2 pt-2.5 text-md font-medium uppercase leading-normal text-neutral-800 shadow-[0_4px_9px_-4px_#cbcbcb] transition duration-150 ease-in-out hover:bg-neutral-100 hover:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:bg-neutral-100 focus:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] dark:shadow-[0_4px_9px_-4px_rgba(251,251,251,0.3)] dark:hover:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:focus:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:active:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)]">
   Book a car now 
 </a>
   </div>
