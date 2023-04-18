@@ -3,16 +3,16 @@
 		<Nav />
 		<main>
 			<article
-				class="lg:pt-20 pt-10 relative flex items-start lg:space-x-10 px-[5%] lg:px-[10%]"
+				class="lg:pt-20 pt-10 relative flex items-start lg:space-x-10 px-[5%] lg:px-[10%] "
 			>
 				<div
 					v-if="blog.excerpt"
-					class="w-[300px] p-5 sticky top-3 border rounded-md bg-white hidden lg:block"
+					class="w-[300px] p-5 sticky top-3 border rounded-md bg-white hidden lg:block sticky top-0"
 				>
 					<h2 class="text-sm font-bold mb-4">Table Of Contents</h2>
 					<ul class="space-y-2">
 						<template v-for="(t, k) in toc" :key="`toc-item-${k}`">
-							<li>
+							<li class="whitespace-nowrap text-ellipsis overflow-hidden">
 								<NuxtLink
 									:class="{
 										'text-sm ml-4': t.depth == 2,
