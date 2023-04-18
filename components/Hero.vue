@@ -13,7 +13,7 @@
       <div class="lg:py-24">
         <h2 class="text-3xl font-bold sm:text-4xl"> Best Car Deals <br> in Spain</h2>
         <a
-          href="#"
+          href="https://www.discovercars.com/?a_aid=spainCars"
           class="mt-8 inline-block rounded bg-indigo-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
         >
           Book a car now 
