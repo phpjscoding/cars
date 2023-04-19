@@ -1,0 +1,1 @@
+export default {data:{navigation:[{title:"Blog",_path:"\u002Fblog",children:[{title:"Renting a Car in Spain in 2023: All you need to know",_path:"\u002Fblog\u002Frenting-car-in-spain"}]},{title:"",_path:"\u002Fmerch"}]},prerenderedAt:1681862927175}
