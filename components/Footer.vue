@@ -10,8 +10,9 @@
       href="https://spain-cars.com"
       >SpainCars</a
     >
+    <img src="/favicon.ico" alt=""> 
   </div>
-</footer>
+</footer>  
 
     </div>
 </template>

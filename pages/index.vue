@@ -81,6 +81,7 @@
 		return fetchContentNavigation(queryContent("blog"));
 	});
 	useHead({
-		title: "Content Blog",
+		title: "SpainCars",  
+
 	});
 </script>
