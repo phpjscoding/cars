@@ -60,11 +60,13 @@
 								</template>
 							</ul>
 							<ul v-else class="list-disc list-inside mt-4 pl-2 space-y-3">
+								<NuxtLink :to="`/blog${b._path}`"> 
 								<li
 									class="list-item text-sm text-gray-600 hover:text-primary-900 underline underline-offset-4 decoration-wavy decoration-primary/40 hover:decoration-primary transition-all"
 								>
-									<NuxtLink :to="`/blog${b._path}`"> Read </NuxtLink>
+									View article..
 								</li>
+							</NuxtLink>
 							</ul>
 						</div>
 					</template>
