@@ -12,7 +12,7 @@
 	<h1 
 					class="lg:text-6xl text-4xl text-center leading-normal font-bold text-white mb-8"
 				>
-					<span class="text-[#bc0014]">All about</span> <br> <span class="text-[#ffbb01]"> Car Rental</span>  <br> <span class="text-[#bc0014]">In Spain </span> 
+					<span >All about</span> <br> <span > Car Rental</span>  <br> <span >In Spain </span> 
 				</h1>
 
 				<a href="https://www.discovercars.com/?a_aid=spainCars"
@@ -82,6 +82,10 @@
 	});
 	useHead({
 		title: "SpainCars",  
+		meta: [
+       
+        { name: 'verify-admitad', content: '2f0908f4e3' }
+	]
 
 	});
 </script>

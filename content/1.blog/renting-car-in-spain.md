@@ -1,3 +1,32 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<div class="table-of-content w-[300px] p-5 sticky top-3 border rounded-md bg-white hidden lg:block sticky top-0">
+
+**Table of Contents**  
+
+- [Renting a Car in Spain in 2023: All you need to know](#renting-a-car-in-spain-in-2023-all-you-need-to-know)
+  - [How to rent a car in Spain](#how-to-rent-a-car-in-spain)
+  - [What do you need to rent a car in Spain?](#what-do-you-need-to-rent-a-car-in-spain)
+  - [Rental car insurance in Spain](#rental-car-insurance-in-spain)
+  - [Is it easy to drive in Spain?](#is-it-easy-to-drive-in-spain)
+  - [Road conditions and speed limits](#road-conditions-and-speed-limits)
+  - [Tolls & Offline maps](#tolls--offline-maps)
+  - [Traffic in Spain](#traffic-in-spain)
+  - [Top tips for renting a car in Spain](#top-tips-for-renting-a-car-in-spain)
+    - [1. Do a walk around and check the car](#1-do-a-walk-around-and-check-the-car)
+    - [2. Opt for a smaller rental car](#2-opt-for-a-smaller-rental-car)
+    - [3. Watch your parking](#3-watch-your-parking)
+    - [4. Fill your car with the right fuel](#4-fill-your-car-with-the-right-fuel)
+  - [How much does a car rental in Spain cost?](#how-much-does-a-car-rental-in-spain-cost)
+  - [Getting the right vehicle](#getting-the-right-vehicle)
+  - [Where do I rent a car in Spain?](#where-do-i-rent-a-car-in-spain)
+    - [Did you know that …](#did-you-know-that-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
+
+<div class="md-content prose lg:prose-base prose-sm prose-slate blog-link pr-7 max-w-none"> 
+
 # Renting a Car in Spain in 2023: All you need to know
 
 Welcome fellow travelers! Spain is a country that never ceases to amaze. With its breathtaking coastlines, majestic mountains like the Pyrenees and the Sierra Nevada, and charming villages nestled in lush valleys, there's something for everyone to discover in this stunning destination. As a seasoned traveler, I highly recommend renting a car to explore this diverse and captivating country at your own pace.
@@ -177,3 +206,5 @@ Are you interested in exploring more of Europe with the same rental car? You'll 
 ### Did you know that …
 
 When you purchase something through our links we earn a small fee. However, you still pay the same. Win-win!
+
+</div>

@@ -1,13 +1,5 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-	app:{
-     head:{
-		link:[
-			{rel:'icon',type:'image/x-icon',href:'/favicon.ico'}
-		]
-	 }
-	},
-	modules: ["@nuxt/content", "@nuxtjs/tailwindcss","@nuxt/image-edge"],
 	content: {
 		markdown: {
 			toc: {
@@ -19,4 +11,17 @@ export default defineNuxtConfig({
 			theme: "dracula-soft",
 		},
 	},
+
+	modules: ["@nuxt/content", "@nuxtjs/tailwindcss","@nuxt/image-edge"],
+	extends: [
+		'nuxt-seo-kit'
+	  ],
+	  runtimeConfig: {
+		public: {
+		  siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://spain-cars.com',
+		  siteName: 'Spain Cars',
+		  siteDescription: 'Car renting in Spain,find the best guides that will help you hire a car',
+		  language: 'en', // prefer more explicit language codes like `en-AU` over `en`
+		}
+	  },
 });
